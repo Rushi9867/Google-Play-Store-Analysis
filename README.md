@@ -1,5 +1,6 @@
 
 # Google App Store Project
+![Github logo](https://github.com/Rushi9867/Google-Play-Store-Analysis/blob/main/images/G%20Play%20Store%20PBI.png)
 ## Problem statement 
 Technology is the increasing need nowadays and used everywhere. One of the features of 
 Technology is android. Which we all use in our daily life. Android is a mobile operating system 
